@@ -3,6 +3,10 @@ chrome-tabs
 
 [Browserify](http://browserify.org/) compatible [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) by Adam Schwartz.
 
+[Demo](http://adamschwartz.co/chrome-tabs/)
+
+![](http://adamschwartz.co/chrome-tabs/chrome-tabs.gif)
+
 Requirements
 ---
 
