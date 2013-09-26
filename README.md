@@ -1,4 +1,4 @@
-chrome-tabs
+chrome-tabs [![Dependency Status](https://david-dm.org/alanshaw/br-chrome-tabs.png)](https://david-dm.org/alanshaw/br-chrome-tabs)
 ===
 
 [Browserify](http://browserify.org/) compatible [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) by Adam Schwartz.
