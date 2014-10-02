@@ -3,7 +3,7 @@ var fs = require('fs'),
 
 var $ = jQuery;
 
-if (!$.ui.sortable) {
+if (!$.ui || !$.ui.sortable) {
   require('./jquery-ui-1.10.3.custom.js');
 }
 
