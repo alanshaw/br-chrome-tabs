@@ -1,6 +1,6 @@
 {
   "name": "br-chrome-tabs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Browserify compatible HTML/CSS and JS chrome tabs implementation",
   "main": "chrome-tabs.js",
   "scripts": {
