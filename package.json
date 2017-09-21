@@ -1,5 +1,5 @@
 {
-  "name": "chrome-tabs",
+  "name": "br-chrome-tabs",
   "version": "0.0.1",
   "description": "Browserify compatible HTML/CSS and JS chrome tabs implementation",
   "main": "chrome-tabs.js",
@@ -23,10 +23,10 @@
     "url": "git@github.com:alanshaw/br-chrome-tabs.git"
   },
   "dependencies": {
-    "insert-css": "0.0.0"
+    "insert-css": "2.0.0"
   },
   "peerDependencies": {
-    "jquery": "~1.8.3",
-    "brfs": "0.0.8"
+    "jquery": "^1.8.3",
+    "brfs": ">0.0.8"
   }
 }

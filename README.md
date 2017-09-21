@@ -21,7 +21,7 @@ Usage
 ---
 
 ```javascript
-var chromeTabs = require("chrome-tabs")
+var chromeTabs = require("br-chrome-tabs")
 
 // Add chrome tabs CSS to page head
 chromeTabs.insertCss()
